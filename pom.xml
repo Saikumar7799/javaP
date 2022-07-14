@@ -5,16 +5,10 @@
 	<artifactId>myweb</artifactId>
 	<packaging>war</packaging>
 	<version>8.2.0</version>
-	<name>Java Home myweb</name>
+	<name>Hello-Worldb</name>
 	<url>http://maven.apache.org</url>
 
  
-
-  <name>Hello World</name>
-  <description>The most basic of Java programs.</description>
-  <url>https://github.com/Saikumar7799/javaP/</url>
-  <inceptionYear>2018</inceptionYear>
-
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
