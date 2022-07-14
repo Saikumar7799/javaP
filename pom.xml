@@ -6,12 +6,12 @@
 
   <groupId>com.coveros.demo</groupId>
   <artifactId>helloworld</artifactId>
-  <version>1.1</version>
+  <version>8.0.2</version>
   <packaging>jar</packaging>
 
   <name>Hello World</name>
   <description>The most basic of Java programs.</description>
-  <url>https://www.coveros.com/</url>
+  <url>https://github.com/Saikumar7799/javaP/</url>
   <inceptionYear>2018</inceptionYear>
 
   <properties>
@@ -19,7 +19,7 @@
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     <jdk.version>1.8</jdk.version>
 
-    <maven.compiler.plugin.version></maven.compiler.plugin.version>
+    <maven.compiler.plugin.version>3.8.1</maven.compiler.plugin.version>
   </properties>
 
   <build>
